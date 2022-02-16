@@ -1,0 +1,22 @@
+{
+    "name": "dhsservices/checkoutaddressaddcompany",
+    "description": "DHSServices CheckoutAddressAddCompany module",
+    "type": "magento2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DHS Services BV",
+            "email": "ict@dhs-services.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "DHSServices\\CheckoutAddressAddCompany\\": ""
+        }
+    }
+}
