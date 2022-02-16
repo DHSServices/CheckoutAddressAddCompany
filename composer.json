@@ -2,7 +2,7 @@
     "name": "dhsservices/checkoutaddressaddcompany",
     "description": "DHSServices CheckoutAddressAddCompany module",
     "type": "magento2-module",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "license": "MIT",
     "authors": [
         {
